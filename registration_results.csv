@@ -7427,3 +7427,15 @@ timestamp,domain,url,email,success,message
 2026-01-20 10:13:08,ui.com,https://ui.com/,huwpanitusman@gmail.com,False,Failed - error message in response
 2026-01-20 10:13:13,whitehouse.gov,https://www.whitehouse.gov/,huwpanitusman@gmail.com,False,Failed - error message in response
 2026-01-20 10:13:16,time.com,https://time.com/,huwpanitusman@gmail.com,False,Failed - no working form found
+2026-03-04 23:33:53,ui.com,https://ui.com/,j07571593@gmail.com,False,Failed - error message in response
+2026-03-04 23:33:57,mdpi.com,https://www.mdpi.com/,j07571593@gmail.com,False,Failed - no working form found
+2026-03-04 23:34:00,sentry.io,https://sentry.io/welcome/,j07571593@gmail.com,False,Failed - error message in response
+2026-03-04 23:34:04,hotjar.com,https://www.hotjar.com/,j07571593@gmail.com,False,Failed - error message in response
+2026-03-04 23:34:10,wordpress.com,https://wordpress.com/,j07571593@gmail.com,False,Failed - no working form found
+2026-03-04 23:34:16,cdnvideo.ru,https://www.cdnvideo.ru/,j07571593@gmail.com,False,Failed - error message in response
+2026-03-04 23:34:21,wyzecam.com,https://www.wyze.com/,j07571593@gmail.com,False,Failed - error message in response
+2026-03-04 23:34:24,rubiconproject.com,https://www.magnite.com/,j07571593@gmail.com,False,Failed - no working form found
+2026-03-04 23:34:27,linktr.ee,https://linktr.ee/,j07571593@gmail.com,False,Failed - no working form found
+2026-03-04 23:34:31,gandi.net,https://www.gandi.net/en-US,j07571593@gmail.com,False,Failed - error message in response
+2026-03-04 23:34:34,zendesk.com,https://www.zendesk.com/,j07571593@gmail.com,True,Success - form submitted
+2026-03-04 23:34:38,zendesk.com,https://www.zendesk.com/,sfadl5361@gmail.com,True,Success - form submitted
